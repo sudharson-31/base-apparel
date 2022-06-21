@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/base-apparel/static/css/main.07df3bfb.css",
+    "main.js": "/base-apparel/static/js/main.0a8e0bdd.js",
+    "index.html": "/base-apparel/index.html",
+    "main.07df3bfb.css.map": "/base-apparel/static/css/main.07df3bfb.css.map",
+    "main.0a8e0bdd.js.map": "/base-apparel/static/js/main.0a8e0bdd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07df3bfb.css",
+    "static/js/main.0a8e0bdd.js"
+  ]
+}
